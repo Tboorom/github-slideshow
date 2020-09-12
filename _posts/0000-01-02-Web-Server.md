@@ -1,5 +1,6 @@
 ---
 layout: slide
-title: "Web Server"
+title: "Social Media Advancements"
 ---
-Web server passes on the query to the index server, then retrives the document that best matches the searchers query
+* Social media quickly evolved as platforms gained more users and more sites emerged such as Reddit, Twitter, Facebook, etc. 
+* Analytics platforms took notice and started to develop analytics and targeting options to support marketing and advertisement efforts
