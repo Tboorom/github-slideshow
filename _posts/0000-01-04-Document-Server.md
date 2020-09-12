@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Where it Stands Today"
+title: "Where it Stands"
 ---
 
 * Almost everyone has some type of social media
