@@ -1,7 +1,7 @@
 ---
 layout: slide
 
-title: "Index Server"
+title: "Social Media Advertisements Increase"
 ---
 
-Web spiders crawl webistes regularly to develop keyword lists and page locations
+Social media sites realized that they needed to provide various targeting and advertisements to keep advertising companies spending money on their platforms
